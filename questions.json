@@ -1,0 +1,44 @@
+[
+  {
+    "id": "SCI-001",
+    "category": "과학",
+    "difficulty": "normal",
+    "question": "원소기호 Fe가 나타내는 원소는 무엇일까요?",
+    "choices": [
+      "구리",
+      "철",
+      "은",
+      "납"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fe는 철을 의미하는 원소기호입니다."
+  },
+  {
+    "id": "HIS-001",
+    "category": "역사",
+    "difficulty": "normal",
+    "question": "고려를 건국한 인물은 누구일까요?",
+    "choices": [
+      "궁예",
+      "견훤",
+      "왕건",
+      "을지문덕"
+    ],
+    "correctIndex": 2,
+    "explanation": "왕건은 918년에 고려를 건국했습니다."
+  },
+  {
+    "id": "GEO-001",
+    "category": "지리",
+    "difficulty": "normal",
+    "question": "세계에서 가장 넓은 대양은 무엇일까요?",
+    "choices": [
+      "대서양",
+      "인도양",
+      "태평양",
+      "북극해"
+    ],
+    "correctIndex": 2,
+    "explanation": "태평양은 세계에서 가장 넓은 대양입니다."
+  }
+]
